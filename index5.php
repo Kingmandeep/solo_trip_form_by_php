@@ -2,7 +2,7 @@
 $insert = false;
 if(isset($_POST['name'])){
 
-$server = "https://62d59bb2b584232032465f38--admirable-douhua-857bb3.netlify.app/";
+$server = "https://kingmandeep.github.io/solo_trip_form_by_php/";
 $username = "root";
 $password = "";
 
